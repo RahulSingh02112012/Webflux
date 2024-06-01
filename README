@@ -8,5 +8,3 @@ There are 4 interfaces :
 
     Subscriber() from subscriber to publisher then subscription from publisher to subscriber then request(n) then
     onNext then onComplete or error
-9911736555 = 51 = 6
-9980591702 = 50  = 5
