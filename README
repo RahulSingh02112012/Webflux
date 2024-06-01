@@ -1,0 +1,12 @@
+There are 4 interfaces :
+    1.Publisher -> Publish an event has method SUBSCRIBE , which a subscriber needs to call to register in publisher
+
+    2.Subscriber -> Consume Event (onSubscribe/onNext/onError/onComplete)
+        onNext -> As Many events as many onNext call
+    3.Subscription -> Request and cancel method
+    4.Processor -> Both S & P
+
+    Subscriber() from subscriber to publisher then subscription from publisher to subscriber then request(n) then
+    onNext then onComplete or error
+9911736555 = 51 = 6
+9980591702 = 50  = 5
